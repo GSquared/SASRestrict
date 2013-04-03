@@ -1,0 +1,9 @@
+Package: com.gsquared.sasrestrict
+Name: SASRestrict
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Restrictions for Students.
+Maintainer: GSquared
+Author: GSquared
+Section: Tweaks
